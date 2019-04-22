@@ -53,13 +53,13 @@ Admins can upgrade normal users to merchants via the user's profile page. They c
 
 # How to Test
 
-Store64 uses RSpec for testing. To run the full test suite, simply run 'rspec' from the terminal.
+Store64 uses RSpec for testing. To run the full test suite, run RSpec from the terminal.
 
-    rspec
+    bundle exec rspec
 
 Individual tests can be run by specifying the desired file path and line number. For example,
 
-    rspec spec/models/item_spec.rb:65
+    bundle exec rspec spec/models/item_spec.rb:65
 
 will run the item model test that is found in that file on line 65.
 
