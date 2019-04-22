@@ -1,3 +1,5 @@
+[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy)
+
 # Store64
 
 'Store 64' is a fictitious video game e-commerce platform. Site visitors can log in as a User, Merchant, or Admin. Users and visitors can add items to a cart. Users can 'checkout' their cart to create an order. Merchants can fulfill items in an order, and admins can access functionality of both users and merchants.
