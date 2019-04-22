@@ -63,6 +63,9 @@ Individual tests can be run by specifying the desired file path and line number.
 
 will run the item model test that is found in that file on line 65.
 
+# Hosted on Heroku
+- http://little-shop.lapicola.com/
+
 # Built With
 
 - Ruby on Rails Framework
