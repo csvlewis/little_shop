@@ -10,7 +10,7 @@
 
 Clone the repo on your local machine from your terminal
 
-    git clone https://github.com/plapicola/little_shop.git
+    git clone https://github.com/csvlewis/little_shop.git
 
 Enter the newly created directory and run bundle install and bundle update
 
