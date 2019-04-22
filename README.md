@@ -1,6 +1,6 @@
 # Store64
 
-'Store 64' is a fictitious e-commerce platform consisting of users, merchants, and admins. Site visitors can log in as a User, Merchant, or Admin. Users and visitors can add items to a cart. Users can 'checkout' their cart to create an order. Merchants can fulfill items in an order, and admins can access functionality of both users and merchants.
+'Store 64' is a fictitious video game e-commerce platform. Site visitors can log in as a User, Merchant, or Admin. Users and visitors can add items to a cart. Users can 'checkout' their cart to create an order. Merchants can fulfill items in an order, and admins can access functionality of both users and merchants.
 
 # Prerequisites
 
@@ -12,11 +12,10 @@ Clone the repo on your local machine from your terminal
 
     git clone https://github.com/csvlewis/little_shop.git
 
-Enter the newly created directory and run bundle install and bundle update
+Enter the newly created directory and run bundle install and bundle
 
     cd little_shop
-    bundle install
-    bundle update
+    bundle
 
 Create, migrate, and seed the database
 
