@@ -66,7 +66,7 @@ Individual tests can be run by specifying the desired file path and line number.
 will run the item model test that is found in that file on line 65.
 
 # Live Site
-- http://little-shop.lapicola.com/
+- https://store-64.herokuapp.com/
 
 # Built With
 
